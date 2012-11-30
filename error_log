@@ -1,0 +1,8 @@
+[29-Nov-2012 18:14:47] PHP Warning:  include(html.inc) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/vincentm/public_html/labs/twitterprofile/connect.php on line 21
+[29-Nov-2012 18:14:47] PHP Warning:  include(html.inc) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/vincentm/public_html/labs/twitterprofile/connect.php on line 21
+[29-Nov-2012 18:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'html.inc' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/vincentm/public_html/labs/twitterprofile/connect.php on line 21
+[29-Nov-2012 18:54:17] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/vincentm/public_html/labs/twitterprofile/index.php on line 60
+[29-Nov-2012 18:54:40] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vincentm/public_html/labs/twitterprofile/index.php on line 60
+[29-Nov-2012 18:58:58] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/vincentm/public_html/labs/twitterprofile/index.php on line 61
+[29-Nov-2012 19:47:47] PHP Fatal error:  Call to a member function post() on a non-object in /home/vincentm/public_html/labs/twitterprofile/send_tweet.php on line 21
+[29-Nov-2012 19:48:51] PHP Fatal error:  Call to a member function get() on a non-object in /home/vincentm/public_html/labs/twitterprofile/send_tweet.php on line 17
